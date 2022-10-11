@@ -1,3 +1,3 @@
 var x = "File 2: test git"
-
-console.log(x);
+let y = " or practice github"
+console.log(x+y);
